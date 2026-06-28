@@ -59,3 +59,5 @@ Berikut Link timeline:
 https://sharing.clickup.com/90181800993/l/h/6-901816597981-1/fc1279f53035abf
 
 ### Step 8 | Demo Aplikasi
+
+https://github.com/user-attachments/assets/27f01b29-338e-4875-a93e-659c55d4960c
