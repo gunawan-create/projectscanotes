@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">ScanNote AI</string>
+
+    <!-- Loading -->
+    <string name="loading">Loading...</string>
+    <string name="searching_location">Mencari lokasi...</string>
+
+    <!-- Location -->
+    <string name="location_text">Lokasi tidak diketahui</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">Selamat datang\nScanNote AI</string>
+    <string name="welcome_description">Belajar jadi lebih mudah dengan bantuan teknologi AI yang cerdas</string>
+
+    <!-- Button -->
+    <string name="btn_get_started">Mulai</string>
+
+    <string name="app_tagline">Belajar lebih cerdas dengan AI</string>
+
+    <string name="greeting">Halo, Gunawan!</string>
+    <string name="scan_today">Mau scan apa hari ini?</string>
+    <string name="scan_ocr">Mulai Scan</string>
+    <string name="history_latest">Riwayat Terbaru</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="empty_history">Belum ada riwayat catatan</string>
+
+    <string name="nav_home">Beranda</string>
+    <string name="nav_account">Akun</string>
+    <string name="nav_history">Riwayat</string>
+
+</resources>
