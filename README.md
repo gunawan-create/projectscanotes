@@ -61,3 +61,7 @@ https://sharing.clickup.com/90181800993/l/h/6-901816597981-1/fc1279f53035abf
 ### Step 8 | Demo Aplikasi
 
 https://github.com/user-attachments/assets/27f01b29-338e-4875-a93e-659c55d4960c
+
+### Step 7 | Poster Aplikasi
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/024b62a3-af0e-4763-a574-ab979b7d6ff5" />
